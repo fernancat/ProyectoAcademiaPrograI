@@ -70,3 +70,4 @@ C:\Users\al881\ProyectoAcademiaPrograI\INNICIO\INNICIO\obj\Debug\net8.0-windows\
 C:\Users\al881\ProyectoAcademiaPrograI\INNICIO\INNICIO\obj\Debug\net8.0-windows\INNICIO.pdb
 C:\Users\al881\ProyectoAcademiaPrograI\INNICIO\INNICIO\obj\Debug\net8.0-windows\INNICIO.genruntimeconfig.cache
 C:\Users\al881\ProyectoAcademiaPrograI\INNICIO\INNICIO\obj\Debug\net8.0-windows\ref\INNICIO.dll
+C:\Users\al881\ProyectoAcademiaPrograI\INNICIO\INNICIO\obj\Debug\net8.0-windows\INNICIO.Princ.resources

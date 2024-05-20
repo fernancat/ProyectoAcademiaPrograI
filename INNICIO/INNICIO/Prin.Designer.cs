@@ -1,6 +1,6 @@
 ﻿namespace INNICIO
 {
-    partial class Form1
+    partial class Prin
     {
         /// <summary>
         ///  Required designer variable.
@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Prin));
             label1 = new Label();
             label2 = new Label();
             progressBar1 = new ProgressBar();
@@ -184,7 +184,7 @@
             Controls.Add(progressBar1);
             Controls.Add(label2);
             Name = "Form1";
-            Text = "Form1";
+            Text = "INICIO";
             Load += Form1_Load;
             panel1.ResumeLayout(false);
             panel1.PerformLayout();

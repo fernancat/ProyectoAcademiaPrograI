@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("INNICIO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cdebdeafe64aa6b077f3487a0b5e9fd006e1a64")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43b1bfe340f2005264c81ff1d57b68003437b083")]
 [assembly: System.Reflection.AssemblyProductAttribute("INNICIO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("INNICIO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
