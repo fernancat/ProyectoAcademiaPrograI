@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\EDUCATIVE.csproj": {}
+    "C:\\Users\\TF049\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\EDUCATIVE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\EDUCATIVE.csproj": {
+    "C:\\Users\\TF049\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\EDUCATIVE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\EDUCATIVE.csproj",
+        "projectUniqueName": "C:\\Users\\TF049\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\EDUCATIVE.csproj",
         "projectName": "EDUCATIVE",
-        "projectPath": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\EDUCATIVE.csproj",
-        "packagesPath": "C:\\Users\\Fernan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\obj\\",
+        "projectPath": "C:\\Users\\TF049\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\EDUCATIVE.csproj",
+        "packagesPath": "C:\\Users\\TF049\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TF049\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Fernan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\TF049\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -48,6 +48,12 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Guna.UI2.WinForms": {
+              "target": "Package",
+              "version": "[2.0.4.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -67,7 +73,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
