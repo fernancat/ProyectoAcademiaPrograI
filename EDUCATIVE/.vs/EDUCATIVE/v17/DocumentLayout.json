@@ -1,36 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\TF049\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\",
+  "WorkspaceRootPath": "C:\\Users\\al881\\ProyectoAcademiaPrograI\\EDUCATIVE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\tf049\\documents\\proyectoacademiaprograi\\educative\\educative\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\al881\\proyectoacademiaprograi\\educative\\educative\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\tf049\\documents\\proyectoacademiaprograi\\educative\\educative\\registrousuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\registrousuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\tf049\\documents\\proyectoacademiaprograi\\educative\\educative\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\tf049\\documents\\proyectoacademiaprograi\\educative\\educative\\inicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|C:\\Users\\al881\\ProyectoAcademiaPrograI\\EDUCATIVE\\educative\\inicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\inicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\tf049\\documents\\proyectoacademiaprograi\\educative\\educative\\formulariocargacursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|C:\\Users\\al881\\ProyectoAcademiaPrograI\\EDUCATIVE\\educative\\registrousuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\registrousuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|C:\\Users\\al881\\ProyectoAcademiaPrograI\\EDUCATIVE\\educative\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|C:\\Users\\al881\\ProyectoAcademiaPrograI\\EDUCATIVE\\educative\\formulariocargacursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\formulariocargacursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\educative\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|C:\\Users\\TF049\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\educative\\formulariocargacursos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|C:\\Users\\al881\\ProyectoAcademiaPrograI\\EDUCATIVE\\educative\\formulariocargacursos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\formulariocargacursos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|C:\\Users\\TF049\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\educative\\formulariocargacursos.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|C:\\Users\\al881\\ProyectoAcademiaPrograI\\EDUCATIVE\\educative\\formulariocargacursos.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\formulariocargacursos.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     }
   ],
@@ -41,15 +41,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\TF049\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\al881\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Form1.cs",
               "RelativeDocumentMoniker": "EDUCATIVE\\Form1.cs",
-              "ToolTip": "C:\\Users\\TF049\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\al881\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "EDUCATIVE\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T04:54:59.335Z",
@@ -57,24 +61,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "RegistroUsuario.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\TF049\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\RegistroUsuario.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\al881\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\RegistroUsuario.Designer.cs",
               "RelativeDocumentMoniker": "EDUCATIVE\\RegistroUsuario.Designer.cs",
-              "ToolTip": "C:\\Users\\TF049\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\RegistroUsuario.Designer.cs",
+              "ToolTip": "C:\\Users\\al881\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\RegistroUsuario.Designer.cs",
               "RelativeToolTip": "EDUCATIVE\\RegistroUsuario.Designer.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T04:54:52.257Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\TF049\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\al881\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Program.cs",
               "RelativeDocumentMoniker": "EDUCATIVE\\Program.cs",
-              "ToolTip": "C:\\Users\\TF049\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Program.cs",
+              "ToolTip": "C:\\Users\\al881\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Program.cs",
               "RelativeToolTip": "EDUCATIVE\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -83,11 +87,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "InicioS.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\TF049\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\InicioS.cs",
+              "DocumentMoniker": "C:\\Users\\al881\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\InicioS.cs",
               "RelativeDocumentMoniker": "EDUCATIVE\\InicioS.cs",
-              "ToolTip": "C:\\Users\\TF049\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\InicioS.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\al881\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\InicioS.cs [Dise\u00F1o]",
               "RelativeToolTip": "EDUCATIVE\\InicioS.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T04:54:34.862Z",
@@ -97,9 +101,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "FormularioCargaCursos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\TF049\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\FormularioCargaCursos.cs",
+              "DocumentMoniker": "C:\\Users\\al881\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\FormularioCargaCursos.cs",
               "RelativeDocumentMoniker": "EDUCATIVE\\FormularioCargaCursos.cs",
-              "ToolTip": "C:\\Users\\TF049\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\FormularioCargaCursos.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\al881\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\FormularioCargaCursos.cs [Dise\u00F1o]",
               "RelativeToolTip": "EDUCATIVE\\FormularioCargaCursos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-01T04:58:00.661Z",
@@ -110,21 +114,20 @@
               "DocumentIndex": 5,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Form1.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Form1.cs",
               "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Form1.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Form1.cs",
+              "RelativeToolTip": "..\\..\\..\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Form1.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAQwB0AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T23:42:50.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T23:42:50.006Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "FormularioCargaCursos.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\TF049\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\FormularioCargaCursos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\al881\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\FormularioCargaCursos.Designer.cs",
               "RelativeDocumentMoniker": "EDUCATIVE\\FormularioCargaCursos.Designer.cs",
-              "ToolTip": "C:\\Users\\TF049\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\FormularioCargaCursos.Designer.cs",
+              "ToolTip": "C:\\Users\\al881\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\FormularioCargaCursos.Designer.cs",
               "RelativeToolTip": "EDUCATIVE\\FormularioCargaCursos.Designer.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAswMQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -135,9 +138,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "FormularioCargaCursos.resx",
-              "DocumentMoniker": "C:\\Users\\TF049\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\FormularioCargaCursos.resx",
+              "DocumentMoniker": "C:\\Users\\al881\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\FormularioCargaCursos.resx",
               "RelativeDocumentMoniker": "EDUCATIVE\\FormularioCargaCursos.resx",
-              "ToolTip": "C:\\Users\\TF049\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\FormularioCargaCursos.resx",
+              "ToolTip": "C:\\Users\\al881\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\FormularioCargaCursos.resx",
               "RelativeToolTip": "EDUCATIVE\\FormularioCargaCursos.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2024-05-10T23:40:06.861Z",

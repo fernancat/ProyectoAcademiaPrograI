@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\al881\\ProyectoAcademiaPrograI\\INNICIO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DD9A2EB-D7E8-4C69-A69C-9D9B6E33BE78}|INNICIO\\INNICIO.csproj|C:\\Users\\al881\\ProyectoAcademiaPrograI\\INNICIO\\innicio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DD9A2EB-D7E8-4C69-A69C-9D9B6E33BE78}|INNICIO\\INNICIO.csproj|solutionrelative:innicio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DD9A2EB-D7E8-4C69-A69C-9D9B6E33BE78}|INNICIO\\INNICIO.csproj|c:\\users\\al881\\proyectoacademiaprograi\\innicio\\innicio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DD9A2EB-D7E8-4C69-A69C-9D9B6E33BE78}|INNICIO\\INNICIO.csproj|solutionrelative:innicio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\al881\\ProyectoAcademiaPrograI\\INNICIO\\INNICIO\\Form1.cs",
+              "RelativeDocumentMoniker": "INNICIO\\Form1.cs",
+              "ToolTip": "C:\\Users\\al881\\ProyectoAcademiaPrograI\\INNICIO\\INNICIO\\Form1.cs*",
+              "RelativeToolTip": "INNICIO\\Form1.cs*",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAUwK8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:03:17.459Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\al881\\ProyectoAcademiaPrograI\\INNICIO\\INNICIO\\Form1.cs",
+              "RelativeDocumentMoniker": "INNICIO\\Form1.cs",
+              "ToolTip": "C:\\Users\\al881\\ProyectoAcademiaPrograI\\INNICIO\\INNICIO\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "INNICIO\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T04:56:47.423Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
