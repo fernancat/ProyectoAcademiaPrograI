@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cristian Chamo\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\EDUCATIVE.csproj": {}
+    "C:\\Users\\Cristian Chamo\\Desktop\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\EDUCATIVE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cristian Chamo\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\EDUCATIVE.csproj": {
+    "C:\\Users\\Cristian Chamo\\Desktop\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\EDUCATIVE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cristian Chamo\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\EDUCATIVE.csproj",
+        "projectUniqueName": "C:\\Users\\Cristian Chamo\\Desktop\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\EDUCATIVE.csproj",
         "projectName": "EDUCATIVE",
-        "projectPath": "C:\\Users\\Cristian Chamo\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\EDUCATIVE.csproj",
+        "projectPath": "C:\\Users\\Cristian Chamo\\Desktop\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\EDUCATIVE.csproj",
         "packagesPath": "C:\\Users\\Cristian Chamo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cristian Chamo\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\obj\\",
+        "outputPath": "C:\\Users\\Cristian Chamo\\Desktop\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Cristian Chamo\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -33,7 +33,7 @@ namespace EDUCATIVE
                     pictureBox.Dock = DockStyle.Fill;
                    
                     
-                    pictureBox.Image = Image.FromFile("C:\\Users\\Fernan\\Downloads\\FONDO TUCBER.jpeg");
+                    //pictureBox.Image = Image.FromFile("C:\\Users\\Fernan\\Downloads\\FONDO TUCBER.jpeg");
                     tableLayoutPanel.Controls.Add(pictureBox, j, i); 
                 }
             }
