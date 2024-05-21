@@ -63,7 +63,7 @@ namespace InicioDeSesion
         private void button1_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Form1 ventan = new Form1();
+            SeleccionDeAuth ventan = new SeleccionDeAuth();
             ventan.Show();
         }
     }
