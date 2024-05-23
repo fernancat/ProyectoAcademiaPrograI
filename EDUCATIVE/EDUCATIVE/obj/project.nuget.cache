@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "+gbwbe+UlGrgKg/zYu/qkD7J74UGPuvxqaBsHCT4kU8buwshQq9rzecq65QWtldrC4/mfT/4TRnn58KWseDuGw==",
+  "dgSpecHash": "WmTPN/YWgpQ46MogKDcQim9oWfayeRr7qA/3AJXS70cTJyFd0cz3KnjU8lVIw+Fwtmz2UJnQFtf3LMd6jYVXaw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\al881\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\EDUCATIVE.csproj",
+  "projectFilePath": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\EDUCATIVE.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\al881\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
-    "C:\\Users\\al881\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
-    "C:\\Users\\al881\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+    "C:\\Users\\Fernan\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\Fernan\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\Fernan\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }
