@@ -11,14 +11,16 @@
         "version": "8.0.0"
       }
     ],
+<<<<<<< HEAD:EDUCATIVE/EDUCATIVE/obj/Debug/net8.0-windows/EDUCATIVE.designer.runtimeconfig.json
     "additionalProbingPaths": [
       "C:\\Users\\TF049\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\TF049\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
+=======
+>>>>>>> main:EDUCATIVE/EDUCATIVE/bin/Debug/net8.0-windows/EDUCATIVE.runtimeconfig.json
     "configProperties": {
-      "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true,
-      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+      "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true
     }
   }
 }
