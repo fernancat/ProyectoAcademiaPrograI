@@ -43,7 +43,7 @@ namespace InicioDeSesion
         private void button1_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Form1 vent = new Form1();
+            SeleccionDeAuth vent = new SeleccionDeAuth();
             vent.Show();
         }
 

@@ -1,8 +1,8 @@
-﻿using System;
+﻿using INNICIO;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
-using System.Deployment.Application;
 using System.Drawing;
 using System.Linq;
 using System.Security.Cryptography;
@@ -12,10 +12,14 @@ using System.Windows.Forms;
 
 namespace InicioDeSesion
 {
-    public partial class Form1 : Form
+    public partial class SeleccionDeAuth : Form
     {
-        public Form1()
+        public SeleccionDeAuth()
         {
+            FormularioPantallaDeCarga carga = new FormularioPantallaDeCarga();
+            this.Hide();
+            carga.Show();
+            this.Show();
             InitializeComponent();
         }
 
@@ -31,6 +35,7 @@ namespace InicioDeSesion
         {
             this.Hide();
             InicioS ventanaInicioSesion = new InicioS();
+            
             ventanaInicioSesion.Show();
         }
 
