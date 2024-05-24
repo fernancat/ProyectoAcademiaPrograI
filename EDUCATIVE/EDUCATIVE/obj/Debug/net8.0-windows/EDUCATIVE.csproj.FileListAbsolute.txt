@@ -1,4 +1,3 @@
-C:\Users\Fernan\Documents\ProyectoAcademiaPrograI\EDUCATIVE\EDUCATIVE\obj\Debug\net8.0-windows\EDUCATIVE.Form1.resources
 C:\Users\Fernan\Documents\ProyectoAcademiaPrograI\EDUCATIVE\EDUCATIVE\obj\Debug\net8.0-windows\EDUCATIVE.csproj.GenerateResource.cache
 C:\Users\Fernan\Documents\ProyectoAcademiaPrograI\EDUCATIVE\EDUCATIVE\obj\Debug\net8.0-windows\EDUCATIVE.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Fernan\Documents\ProyectoAcademiaPrograI\EDUCATIVE\EDUCATIVE\obj\Debug\net8.0-windows\EDUCATIVE.AssemblyInfoInputs.cache
@@ -45,3 +44,5 @@ C:\Users\Cristian Chamo\Desktop\ProyectoAcademiaPrograI\EDUCATIVE\EDUCATIVE\obj\
 C:\Users\Cristian Chamo\Desktop\ProyectoAcademiaPrograI\EDUCATIVE\EDUCATIVE\obj\Debug\net8.0-windows\EDUCATIVE.pdb
 C:\Users\Cristian Chamo\Desktop\ProyectoAcademiaPrograI\EDUCATIVE\EDUCATIVE\obj\Debug\net8.0-windows\EDUCATIVE.genruntimeconfig.cache
 C:\Users\Cristian Chamo\Desktop\ProyectoAcademiaPrograI\EDUCATIVE\EDUCATIVE\obj\Debug\net8.0-windows\ref\EDUCATIVE.dll
+C:\Users\Fernan\Documents\ProyectoAcademiaPrograI\EDUCATIVE\EDUCATIVE\obj\Debug\net8.0-windows\EDUCATIVE.FormularioCargaCursos.resources
+C:\Users\Fernan\Documents\ProyectoAcademiaPrograI\EDUCATIVE\EDUCATIVE\obj\Debug\net8.0-windows\EDUCATIVE.FormularioDelCurso.resources
