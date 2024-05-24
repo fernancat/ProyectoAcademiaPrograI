@@ -59,6 +59,9 @@ namespace EDUCATIVE
 
         private void btn_Calificaciones_Click(object sender, EventArgs e)
         {
+            SidePanel.Height = btn_Calificaciones.Height;
+            SidePanel.Top = btn_Calificaciones.Top;
+
 
         }
 
@@ -88,6 +91,26 @@ namespace EDUCATIVE
         }
 
         private void button1_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_Foros_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox7_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
         {
 
         }
