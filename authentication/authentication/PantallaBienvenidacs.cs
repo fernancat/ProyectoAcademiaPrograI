@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SesionInicio
+namespace authentication
 {
-    public partial class Form1 : Form
+    public partial class PantallaBienvenidacs : Form
     {
-        public Form1()
+        public PantallaBienvenidacs()
         {
             InitializeComponent();
         }

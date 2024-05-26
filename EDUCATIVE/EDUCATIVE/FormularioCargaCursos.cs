@@ -1,3 +1,4 @@
+using EDUCATIVE.Models;
 using Guna.UI2.WinForms;
 using System.Linq.Expressions;
 
@@ -5,11 +6,14 @@ namespace EDUCATIVE
 {
     public partial class FormularioCargaCursos : Form
     {
+        private Usuario usuario;
         private List<Label> labels = new List<Label>();
 
-        public FormularioCargaCursos()
+        public FormularioCargaCursos(Usuario usuario)
         {
+            this.usuario = usuario;
             InitializeComponent();
+            datosUsuarioLoad();
             // Crear una instancia del TableLayoutPanel
             TableLayoutPanel tableLayoutPanel = new TableLayoutPanel
             {
@@ -62,5 +66,38 @@ namespace EDUCATIVE
         {
 
         }
+
+        private void datosUsuarioLoad() {
+            textoUsuario.Text = usuario.nombre_usuario;
+            textoCorreo.Text = usuario.email;
+            rolUsuario.Text = usuario.rol;
+
+            if (usuario.rol == "instructor")
+            {
+                Guna2Button botonEditar = new Guna2Button
+                {
+                    Text = "Crear curso",
+                    Size = new Size(100, 40),
+                    Location = new Point(0, guna2Panel1.Height - 50), // Posicionarlo en la parte inferior izquierda
+                    Anchor = AnchorStyles.Bottom | AnchorStyles.Left, // Anclar el botón al fondo e izquierda del panel
+                    FillColor = Color.FromArgb(60, 63, 81)
+
+                };
+                botonEditar.Click += BotonEditar_Click;
+
+
+
+                guna2Panel1.Controls.Add(botonEditar);
+
+            }
+        }
+
+        private void BotonEditar_Click(Object sender, EventArgs e)
+        {
+            //logica del boton editar
+        }
+
+
     }
+    
 }
