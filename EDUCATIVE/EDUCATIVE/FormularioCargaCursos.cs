@@ -76,7 +76,7 @@ namespace EDUCATIVE
             {
                 Guna2Button botonEditar = new Guna2Button
                 {
-                    Text = "Crear curso",
+                    Text = "Editar curso",
                     Size = new Size(100, 40),
                     Location = new Point(0, guna2Panel1.Height - 50), // Posicionarlo en la parte inferior izquierda
                     Anchor = AnchorStyles.Bottom | AnchorStyles.Left, // Anclar el botón al fondo e izquierda del panel
@@ -94,7 +94,9 @@ namespace EDUCATIVE
 
         private void BotonEditar_Click(Object sender, EventArgs e)
         {
-            //logica del boton editar
+            FormularioDelCurso formularioCurso = new FormularioDelCurso();
+            this.Hide();
+            formularioCurso.Show();
         }
 
 
