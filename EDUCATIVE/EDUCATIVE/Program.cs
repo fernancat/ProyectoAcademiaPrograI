@@ -16,7 +16,7 @@ namespace InicioDeSesion
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new SeleccionDeAuth());
+            Application.Run(new SesionInicio.Login ());
         }
     }
 }

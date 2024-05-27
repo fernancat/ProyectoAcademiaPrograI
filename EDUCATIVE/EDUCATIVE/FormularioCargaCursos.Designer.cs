@@ -39,7 +39,7 @@
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges14 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             guna2Elipse1 = new Guna.UI2.WinForms.Guna2Elipse(components);
             guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
-            guna2HtmlLabel1 = new Guna.UI2.WinForms.Guna2HtmlLabel();
+            rolUsuario = new Guna.UI2.WinForms.Guna2HtmlLabel();
             guna2GradientButton1 = new Guna.UI2.WinForms.Guna2GradientButton();
             textoCorreo = new Guna.UI2.WinForms.Guna2HtmlLabel();
             textoUsuario = new Guna.UI2.WinForms.Guna2HtmlLabel();
@@ -58,7 +58,7 @@
             // guna2Panel1
             // 
             guna2Panel1.BackColor = Color.FromArgb(40, 42, 52);
-            guna2Panel1.Controls.Add(guna2HtmlLabel1);
+            guna2Panel1.Controls.Add(rolUsuario);
             guna2Panel1.Controls.Add(guna2GradientButton1);
             guna2Panel1.Controls.Add(textoCorreo);
             guna2Panel1.Controls.Add(textoUsuario);
@@ -70,15 +70,15 @@
             guna2Panel1.Size = new Size(241, 639);
             guna2Panel1.TabIndex = 0;
             // 
-            // guna2HtmlLabel1
+            // rolUsuario
             // 
-            guna2HtmlLabel1.BackColor = Color.Transparent;
-            guna2HtmlLabel1.ForeColor = Color.White;
-            guna2HtmlLabel1.Location = new Point(61, 216);
-            guna2HtmlLabel1.Name = "guna2HtmlLabel1";
-            guna2HtmlLabel1.Size = new Size(25, 22);
-            guna2HtmlLabel1.TabIndex = 3;
-            guna2HtmlLabel1.Text = "Rol";
+            rolUsuario.BackColor = Color.Transparent;
+            rolUsuario.ForeColor = Color.White;
+            rolUsuario.Location = new Point(61, 216);
+            rolUsuario.Name = "rolUsuario";
+            rolUsuario.Size = new Size(25, 22);
+            rolUsuario.TabIndex = 3;
+            rolUsuario.Text = "Rol";
             // 
             // guna2GradientButton1
             // 
@@ -105,9 +105,9 @@
             textoCorreo.ForeColor = Color.White;
             textoCorreo.Location = new Point(56, 171);
             textoCorreo.Name = "textoCorreo";
-            textoCorreo.Size = new Size(48, 22);
+            textoCorreo.Size = new Size(96, 22);
             textoCorreo.TabIndex = 2;
-            textoCorreo.Text = "Correo";
+            textoCorreo.Text = "correoUsuario";
             // 
             // textoUsuario
             // 
@@ -162,7 +162,7 @@
             panelCursos.TabIndex = 2;
             panelCursos.Paint += guna2ShadowPanel1_Paint;
             // 
-            // Form1
+            // FormularioCargaCursos
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -172,7 +172,7 @@
             Controls.Add(guna2ControlBox1);
             Controls.Add(guna2Panel1);
             FormBorderStyle = FormBorderStyle.None;
-            Name = "Form1";
+            Name = "FormularioCargaCursos";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Form1";
             Load += Form1_Load;
@@ -191,7 +191,7 @@
         private Guna.UI2.WinForms.Guna2DragControl guna2DragControl1;
         private Guna.UI2.WinForms.Guna2HtmlLabel textoCorreo;
         private Guna.UI2.WinForms.Guna2HtmlLabel textoUsuario;
-        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel1;
+        private Guna.UI2.WinForms.Guna2HtmlLabel rolUsuario;
         private Guna.UI2.WinForms.Guna2GradientButton guna2GradientButton1;
         private Guna.UI2.WinForms.Guna2ShadowPanel panelCursos;
     }

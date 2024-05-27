@@ -1,12 +1,30 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "WmTPN/YWgpQ46MogKDcQim9oWfayeRr7qA/3AJXS70cTJyFd0cz3KnjU8lVIw+Fwtmz2UJnQFtf3LMd6jYVXaw==",
+=======
+  "dgSpecHash": "OK0edGqtAwTI/U3rmOFktHgcluHYF8p0LXWJxStcWw3LOKG2woLdJLZVPrK7OPAxIWFE5qX/GQ4OaZo1Bn5PNg==",
+>>>>>>> main
   "success": true,
   "projectFilePath": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\EDUCATIVE.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fernan\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+<<<<<<< HEAD
     "C:\\Users\\Fernan\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
     "C:\\Users\\Fernan\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+=======
+    "C:\\Users\\Fernan\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Fernan\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\Fernan\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\Fernan\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Fernan\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Fernan\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\Fernan\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\Fernan\\.nuget\\packages\\system.data.sqlclient\\4.8.6\\system.data.sqlclient.4.8.6.nupkg.sha512",
+    "C:\\Users\\Fernan\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512",
+    "C:\\Users\\Fernan\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Fernan\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+>>>>>>> main
   ],
   "logs": []
 }

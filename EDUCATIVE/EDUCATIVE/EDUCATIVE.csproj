@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <PackageReference Include="Guna.UI2.WinForms" Version="2.0.4.6" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
   </ItemGroup>
 
   <ItemGroup>
@@ -29,6 +30,15 @@
 
   <ItemGroup>
     <Folder Include="IMGS\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="DTAClient">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Microsoft SQL Server Management Studio 20\Common7\DTACLIENT.DLL</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\MySQL\MySQL Connector NET 8.4\MySql.Data.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>
