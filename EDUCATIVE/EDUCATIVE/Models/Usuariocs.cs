@@ -11,6 +11,8 @@ namespace EDUCATIVE.Models
         public int Id { get; set; }
         public string nombre_usuario { get; set; }
 
+        public byte[] FotoPerfil { get; set; } 
+
         public string apellidos { get; set; }
         public string email { get; set; }
 
@@ -18,7 +20,6 @@ namespace EDUCATIVE.Models
 
         public string rol { get; set; }
 
-        public DateTime fecha_creacion { get; set; }
 
 
        
