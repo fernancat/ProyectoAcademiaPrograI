@@ -6,16 +6,16 @@ using Microsoft.Data.SqlClient;
 
 namespace Info
 {
-    public partial class Form1 : Form
+    public partial class Consultas : Form
     {
 
         SqlConnection connection = new SqlConnection("server=LAPTOP-1AVQ1L6A\\SQLEXPRESS; database=CONEC; integrated security=true; TrustServerCertificate=True");
         private string nombresText = "";
-        public Form1()
+        public Consultas()
         {
             InitializeComponent();
 
-            // Asociar el evento TextChanged del TextBox "Nombres" con el método Nombres_TextChanged
+
             Nombres.TextChanged += Nombres_TextChanged;
         }
 
@@ -28,11 +28,11 @@ namespace Info
                 SqlCommand comando = new SqlCommand(consulta, connection);
                 comando.Parameters.AddWithValue("@nombres", nombresText);
                 comando.ExecuteNonQuery();
-                MessageBox.Show("Datos insertados correctamente.");
+                MessageBox.Show("Solicitud enviada te responderemos pronto.");
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Error al insertar datos: " + ex.Message);
+                MessageBox.Show("Error al insertar datos :c : " + ex.Message);
             }
             finally
             {
@@ -40,15 +40,29 @@ namespace Info
             }
         }
 
-        // Manejador de evento para el cambio de texto en el TextBox "Nombres"
+
         private void Nombres_TextChanged(object sender, EventArgs e)
         {
-            nombresText = Nombres.Text; // Actualizar la variable con el texto del TextBox
+            nombresText = Nombres.Text;
         }
 
         private void Enviar_Click_1(object sender, EventArgs e)
         {
             EnviarDatos();
+        }
+
+        private void btonA_Click(object sender, EventArgs e)
+        {
+            
+            DOOM formularioDOOM = new DOOM();
+
+           
+            formularioDOOM.Show();
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }
