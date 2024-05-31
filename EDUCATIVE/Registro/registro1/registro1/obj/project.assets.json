@@ -150,11 +150,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\al881\\ProyectoAcademiaPrograI\\EDUCATIVE\\Registro\\registro1\\registro1\\registro1.csproj",
+      "projectUniqueName": "C:\\Users\\al881\\OneDrive\\Documentos\\ProyectoAcademiaPrograI\\EDUCATIVE\\Registro\\registro1\\registro1\\registro1.csproj",
       "projectName": "registro1",
-      "projectPath": "C:\\Users\\al881\\ProyectoAcademiaPrograI\\EDUCATIVE\\Registro\\registro1\\registro1\\registro1.csproj",
+      "projectPath": "C:\\Users\\al881\\OneDrive\\Documentos\\ProyectoAcademiaPrograI\\EDUCATIVE\\Registro\\registro1\\registro1\\registro1.csproj",
       "packagesPath": "C:\\Users\\al881\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\al881\\ProyectoAcademiaPrograI\\EDUCATIVE\\Registro\\registro1\\registro1\\obj\\",
+      "outputPath": "C:\\Users\\al881\\OneDrive\\Documentos\\ProyectoAcademiaPrograI\\EDUCATIVE\\Registro\\registro1\\registro1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\al881\\AppData\\Roaming\\NuGet\\NuGet.Config",

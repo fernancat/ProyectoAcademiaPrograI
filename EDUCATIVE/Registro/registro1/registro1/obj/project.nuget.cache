@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TwqwrHOIdmxAYdKDuJaaJkfQ9dhZvh/9YHJO2jhbIWRAdRj2EPpGPXeqE/NYf5MhYz2tVItgylat5U3nrzBi5Q==",
+  "dgSpecHash": "I/Y0CwyTGqY8T38Ofl5DnnhKhFpe8fK28807H0JXhY1b4w3SuaYJgnTXA0IP3Cms+HhK23JXgxnuea/X9SF9TA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\al881\\ProyectoAcademiaPrograI\\EDUCATIVE\\Registro\\registro1\\registro1\\registro1.csproj",
+  "projectFilePath": "C:\\Users\\al881\\OneDrive\\Documentos\\ProyectoAcademiaPrograI\\EDUCATIVE\\Registro\\registro1\\registro1\\registro1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\al881\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
     "C:\\Users\\al881\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
