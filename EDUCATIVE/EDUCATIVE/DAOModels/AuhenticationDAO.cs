@@ -44,12 +44,23 @@ namespace EDUCATIVE.DAOModels
                         apellidos = lector["apellidos"].ToString(),
                         email = lector["email"].ToString(),
                         contraseña = lector["contrasena"].ToString(),
-                        FotoPerfil = (byte[])lector["foto_perfil"],
                         rol = lector["rol"].ToString()
                     };
+                    // Verificar si la columna "foto_perfil" es nula
+                    if (!Convert.IsDBNull(lector["foto_perfil"]))
+                    {
+                        usuario1.FotoPerfil = (byte[])lector["foto_perfil"];
+                    }
+                    else
+                    {
+                        // Si la columna es nula, puedes asignar un valor predeterminado o dejarla como null
+                        usuario1.FotoPerfil = null; // O bien, puedes asignar un array vacío: new byte[0]
+                    }
+
                     return usuario1;
 
                 }
+
 
 
                 return null;

@@ -34,3 +34,13 @@ C:\Users\Fernan\Documents\ProyectoAcademiaPrograI\EDUCATIVE\EDUCATIVE\obj\Debug\
 C:\Users\Fernan\Documents\ProyectoAcademiaPrograI\EDUCATIVE\EDUCATIVE\obj\Debug\net8.0-windows\EDUCATIVE.pdb
 C:\Users\Fernan\Documents\ProyectoAcademiaPrograI\EDUCATIVE\EDUCATIVE\obj\Debug\net8.0-windows\EDUCATIVE.genruntimeconfig.cache
 C:\Users\Fernan\Documents\ProyectoAcademiaPrograI\EDUCATIVE\EDUCATIVE\obj\Debug\net8.0-windows\ref\EDUCATIVE.dll
+C:\Users\Fernan\Documents\ProyectoAcademiaPrograI\EDUCATIVE\EDUCATIVE\obj\Debug\net8.0-windows\EDUCATIVE.Formularios.FormCalificacioness.resources
+C:\Users\Fernan\Documents\ProyectoAcademiaPrograI\EDUCATIVE\EDUCATIVE\obj\Debug\net8.0-windows\EDUCATIVE.Formularios.FormsDelCurso.FormularioCargaContenidoEstudiantecs.resources
+C:\Users\Fernan\Documents\ProyectoAcademiaPrograI\EDUCATIVE\EDUCATIVE\obj\Debug\net8.0-windows\Transparent_Form.FormularioMaterialProfesor.resources
+C:\Users\Fernan\Documents\ProyectoAcademiaPrograI\EDUCATIVE\EDUCATIVE\obj\Debug\net8.0-windows\EDUCATIVE.Formularios.FormsDelCurso.FormularioEvaluacionsYPruebas.resources
+C:\Users\Fernan\Documents\ProyectoAcademiaPrograI\EDUCATIVE\EDUCATIVE\obj\Debug\net8.0-windows\Foro.ForosForm.resources
+C:\Users\Fernan\Documents\ProyectoAcademiaPrograI\EDUCATIVE\EDUCATIVE\obj\Debug\net8.0-windows\EDUCATIVE.Formularios.FormsDelCurso.FormularioEvaluacionEstudiante.resources
+C:\Users\Fernan\Documents\ProyectoAcademiaPrograI\EDUCATIVE\EDUCATIVE\obj\Debug\net8.0-windows\informacionProgreso.InformacionYProgreso.resources
+C:\Users\Fernan\Documents\ProyectoAcademiaPrograI\EDUCATIVE\EDUCATIVE\obj\Debug\net8.0-windows\EDUCATIVE.Formularios.FormsDelCurso.FormularioCalificacionesProfesor.resources
+C:\Users\Fernan\Documents\ProyectoAcademiaPrograI\EDUCATIVE\EDUCATIVE\obj\Debug\net8.0-windows\EDUCATIVE.Formularios.FormsDelCurso.FormularioGruposProfesor.resources
+C:\Users\Fernan\Documents\ProyectoAcademiaPrograI\EDUCATIVE\EDUCATIVE\obj\Debug\net8.0-windows\EDUCATIVE.Formularios.FormsDelCurso.FormularioGrupoEstudiantecs.resources

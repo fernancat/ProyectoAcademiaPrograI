@@ -7,68 +7,176 @@
       "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\formularios\\formulariocargacursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\educative\\formularios\\formulariocargacursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\formularios\\formulariocargacursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\formularios\\formulariocargacursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\daomodels\\cursosdaocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\daomodels\\cursosdaocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\daomodels\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\daomodels\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\educative\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\formularios\\formulariodelcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\formularios\\formulariodelcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\formularios\\formulariodelcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\formularios\\formulariodelcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\models\\basededatoscs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\models\\basededatoscs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\daomodels\\materialcursodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\daomodels\\materialcursodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\formularios\\formsdelcurso\\formulariogrupoestudiantecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\formularios\\formsdelcurso\\formulariogrupoestudiantecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\formularios\\formulariodelcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\formularios\\formulariodelcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\formularios\\formsdelcurso\\formulariogrupoestudiantecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\formularios\\formsdelcurso\\formulariogrupoestudiantecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\daomodels\\usuariosgruposdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\daomodels\\usuariosgruposdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\formularios\\formsdelcurso\\formulariogruposprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\formularios\\formsdelcurso\\formulariogruposprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\formularios\\formsdelcurso\\formulariogruposprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\formularios\\formsdelcurso\\formulariogruposprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\models\\usuariogrupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\models\\usuariogrupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\models\\grupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\models\\grupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\daomodels\\gruposdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\daomodels\\gruposdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\formularios\\formsdelcurso\\formulariocalificacionesprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\formularios\\formsdelcurso\\formulariocalificacionesprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\formularios\\formsdelcurso\\formulariocalificacionesprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\formularios\\formsdelcurso\\formulariocalificacionesprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\daomodels\\calificacionesdaocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\daomodels\\calificacionesdaocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\formularios\\formsdelcurso\\formulariomaterialprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\formularios\\formsdelcurso\\formulariomaterialprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\formularios\\formsdelcurso\\formulariomaterialprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\formularios\\formsdelcurso\\formulariomaterialprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\formularios\\formsdelcurso\\informacionyprogreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\formularios\\formsdelcurso\\informacionyprogreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\educative\\models\\calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\models\\calificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\formularios\\formsdelcurso\\informacionyprogreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\formularios\\formsdelcurso\\informacionyprogreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\formularios\\formsdelcurso\\formularioevaluacionestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\formularios\\formsdelcurso\\formularioevaluacionestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\models\\pruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\models\\pruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\formularios\\formsdelcurso\\formularioevaluacionestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\formularios\\formsdelcurso\\formularioevaluacionestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\models\\evaluaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\models\\evaluaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\formularios\\formsdelcurso\\foroform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\formularios\\formsdelcurso\\foroform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\daomodels\\pruebasdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\daomodels\\pruebasdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\daomodels\\evaluacionesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\daomodels\\evaluacionesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\formularios\\formsdelcurso\\formulariomaterialesestudiantecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\formularios\\formsdelcurso\\formulariomaterialesestudiantecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\daomodels\\auhenticationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\daomodels\\auhenticationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\educative\\models\\usuariocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\models\\usuariocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\daomodels\\mensajeforodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\daomodels\\mensajeforodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\educative\\formularios\\formularioregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\formularios\\formularioregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\models\\preguntaforo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\models\\preguntaforo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\educative\\formularios\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\formularios\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\models\\mensajesforos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\models\\mensajesforos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\educative\\formularios\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\formularios\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\daomodels\\preguntasforodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\daomodels\\preguntasforodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\educative\\formularios\\formularioregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\formularios\\formularioregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\formularios\\formsdelcurso\\foroform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\formularios\\formsdelcurso\\foroform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\educative\\formularios\\formularioregistro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\formularios\\formularioregistro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\daomodels\\forodaocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\daomodels\\forodaocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\educative\\educative.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\educative.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\models\\forosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\models\\forosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\formularios\\formsdelcurso\\formulariomaterialesestudiantecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\formularios\\formsdelcurso\\formulariomaterialesestudiantecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\formularios\\formsdelcurso\\formularioevaluacionsypruebas.profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\formularios\\formsdelcurso\\formularioevaluacionsypruebas.profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\formularios\\formsdelcurso\\formularioevaluacionsypruebas.profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\formularios\\formsdelcurso\\formularioevaluacionsypruebas.profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\educative\\models\\basededatoscs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\models\\basededatoscs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\formularios\\formsdelcurso\\formularioevaluacionsypruebas.profesor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\formularios\\formsdelcurso\\formularioevaluacionsypruebas.profesor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\daomodels\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\daomodels\\usuariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|c:\\users\\fernan\\documents\\proyectoacademiaprograi\\educative\\educative\\models\\materialcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1440FD41-882C-418D-9FD1-293B775B7BB4}|EDUCATIVE\\EDUCATIVE.csproj|solutionrelative:educative\\models\\materialcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,42 +190,40 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CursosDAOcs.cs",
-              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\DAOModels\\CursosDAOcs.cs",
-              "RelativeDocumentMoniker": "EDUCATIVE\\DAOModels\\CursosDAOcs.cs",
-              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\DAOModels\\CursosDAOcs.cs",
-              "RelativeToolTip": "EDUCATIVE\\DAOModels\\CursosDAOcs.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "DocumentIndex": 6,
+              "Title": "FormularioGrupoEstudiantecs.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioGrupoEstudiantecs.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioGrupoEstudiantecs.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioGrupoEstudiantecs.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioGrupoEstudiantecs.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T20:46:54.308Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Curso.cs",
-              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Models\\Curso.cs",
-              "RelativeDocumentMoniker": "EDUCATIVE\\Models\\Curso.cs",
-              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Models\\Curso.cs",
-              "RelativeToolTip": "EDUCATIVE\\Models\\Curso.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T20:46:32.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T08:18:29.954Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UsuarioDAO.cs",
-              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\DAOModels\\UsuarioDAO.cs",
-              "RelativeDocumentMoniker": "EDUCATIVE\\DAOModels\\UsuarioDAO.cs",
-              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\DAOModels\\UsuarioDAO.cs",
-              "RelativeToolTip": "EDUCATIVE\\DAOModels\\UsuarioDAO.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAqwB0AAABCAAAA",
+              "Title": "MaterialCursoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\DAOModels\\MaterialCursoDAO.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\DAOModels\\MaterialCursoDAO.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\DAOModels\\MaterialCursoDAO.cs",
+              "RelativeToolTip": "EDUCATIVE\\DAOModels\\MaterialCursoDAO.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAqwEcAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T16:19:05.983Z",
+              "WhenOpened": "2024-05-29T21:37:18.067Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormularioDelCurso.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormularioDelCurso.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\Formularios\\FormularioDelCurso.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormularioDelCurso.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EDUCATIVE\\Formularios\\FormularioDelCurso.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:15:34.408Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
@@ -128,7 +234,7 @@
               "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormularioCargaCursos.cs [Dise\u00F1o]",
               "RelativeToolTip": "EDUCATIVE\\Formularios\\FormularioCargaCursos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T22:24:33.52Z",
+              "WhenOpened": "2024-05-30T02:58:59.567Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
@@ -139,52 +245,462 @@
               "RelativeDocumentMoniker": "EDUCATIVE\\Formularios\\FormularioCargaCursos.cs",
               "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormularioCargaCursos.cs",
               "RelativeToolTip": "EDUCATIVE\\Formularios\\FormularioCargaCursos.cs",
-              "ViewState": "AQIAAF4BAAAAAAAAAAAcwGgBAAAAAAAA",
+              "ViewState": "AQIAALIBAAAAAAAAAAAAAKMBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T00:14:01.794Z",
+              "WhenOpened": "2024-05-30T02:59:04.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormularioGrupoEstudiantecs.cs",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioGrupoEstudiantecs.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioGrupoEstudiantecs.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioGrupoEstudiantecs.cs",
+              "RelativeToolTip": "EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioGrupoEstudiantecs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T08:18:39.413Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Principal.cs",
-              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Principal.cs",
-              "RelativeDocumentMoniker": "EDUCATIVE\\Principal.cs",
-              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Principal.cs",
-              "RelativeToolTip": "EDUCATIVE\\Principal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T21:28:20.952Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "FormularioDelCurso.cs",
               "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormularioDelCurso.cs",
               "RelativeDocumentMoniker": "EDUCATIVE\\Formularios\\FormularioDelCurso.cs",
               "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormularioDelCurso.cs",
               "RelativeToolTip": "EDUCATIVE\\Formularios\\FormularioDelCurso.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAowBMAAAAeAAAA",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAYwGwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T21:07:06.925Z",
+              "WhenOpened": "2024-06-01T02:17:40.989Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "FormularioDelCurso.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormularioDelCurso.cs",
-              "RelativeDocumentMoniker": "EDUCATIVE\\Formularios\\FormularioDelCurso.cs",
-              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormularioDelCurso.cs [Dise\u00F1o]",
-              "RelativeToolTip": "EDUCATIVE\\Formularios\\FormularioDelCurso.cs [Dise\u00F1o]",
+              "Title": "UsuariosGruposDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\DAOModels\\UsuariosGruposDAO.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\DAOModels\\UsuariosGruposDAO.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\DAOModels\\UsuariosGruposDAO.cs",
+              "RelativeToolTip": "EDUCATIVE\\DAOModels\\UsuariosGruposDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T00:50:53.341Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-06-01T07:50:59.85Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "FormularioGruposProfesor.cs",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioGruposProfesor.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioGruposProfesor.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioGruposProfesor.cs",
+              "RelativeToolTip": "EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioGruposProfesor.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T07:53:18.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormularioGruposProfesor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioGruposProfesor.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioGruposProfesor.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioGruposProfesor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioGruposProfesor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T07:53:11.537Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuarioGrupo.cs",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Models\\UsuarioGrupo.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\Models\\UsuarioGrupo.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Models\\UsuarioGrupo.cs",
+              "RelativeToolTip": "EDUCATIVE\\Models\\UsuarioGrupo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T07:50:09.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Grupo.cs",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Models\\Grupo.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\Models\\Grupo.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Models\\Grupo.cs",
+              "RelativeToolTip": "EDUCATIVE\\Models\\Grupo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T07:49:15.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GruposDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\DAOModels\\GruposDAO.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\DAOModels\\GruposDAO.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\DAOModels\\GruposDAO.cs",
+              "RelativeToolTip": "EDUCATIVE\\DAOModels\\GruposDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T07:44:41.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormularioCalificacionesProfesor.cs",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioCalificacionesProfesor.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioCalificacionesProfesor.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioCalificacionesProfesor.cs",
+              "RelativeToolTip": "EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioCalificacionesProfesor.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAIwGYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T04:26:59.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormularioCalificacionesProfesor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioCalificacionesProfesor.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioCalificacionesProfesor.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioCalificacionesProfesor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioCalificacionesProfesor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T04:26:25.144Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CalificacionesDAOcs.cs",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\DAOModels\\CalificacionesDAOcs.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\DAOModels\\CalificacionesDAOcs.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\DAOModels\\CalificacionesDAOcs.cs",
+              "RelativeToolTip": "EDUCATIVE\\DAOModels\\CalificacionesDAOcs.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAiwFcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T02:59:34.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormularioMaterialProfesor.cs",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioMaterialProfesor.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioMaterialProfesor.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioMaterialProfesor.cs",
+              "RelativeToolTip": "EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioMaterialProfesor.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAIwFMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T05:11:16.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormularioMaterialProfesor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioMaterialProfesor.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioMaterialProfesor.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioMaterialProfesor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioMaterialProfesor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T23:07:39.545Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InformacionYProgreso.cs",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\InformacionYProgreso.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\Formularios\\FormsDelCurso\\InformacionYProgreso.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\InformacionYProgreso.cs",
+              "RelativeToolTip": "EDUCATIVE\\Formularios\\FormsDelCurso\\InformacionYProgreso.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T03:27:34.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Calificacion.cs",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Models\\Calificacion.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\Models\\Calificacion.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Models\\Calificacion.cs",
+              "RelativeToolTip": "EDUCATIVE\\Models\\Calificacion.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T23:15:39.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "InformacionYProgreso.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\InformacionYProgreso.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\Formularios\\FormsDelCurso\\InformacionYProgreso.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\InformacionYProgreso.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EDUCATIVE\\Formularios\\FormsDelCurso\\InformacionYProgreso.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T02:11:01.969Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormularioEvaluacionEstudiante.cs",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioEvaluacionEstudiante.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioEvaluacionEstudiante.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioEvaluacionEstudiante.cs",
+              "RelativeToolTip": "EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioEvaluacionEstudiante.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAowJgAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T00:11:08.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormularioEvaluacionEstudiante.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioEvaluacionEstudiante.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioEvaluacionEstudiante.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioEvaluacionEstudiante.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioEvaluacionEstudiante.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T20:34:06.334Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Pruebas.cs",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Models\\Pruebas.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\Models\\Pruebas.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Models\\Pruebas.cs",
+              "RelativeToolTip": "EDUCATIVE\\Models\\Pruebas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T23:03:46.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PruebasDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\DAOModels\\PruebasDAO.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\DAOModels\\PruebasDAO.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\DAOModels\\PruebasDAO.cs",
+              "RelativeToolTip": "EDUCATIVE\\DAOModels\\PruebasDAO.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAuwAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T23:00:13.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EvaluacionesDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\DAOModels\\EvaluacionesDAO.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\DAOModels\\EvaluacionesDAO.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\DAOModels\\EvaluacionesDAO.cs",
+              "RelativeToolTip": "EDUCATIVE\\DAOModels\\EvaluacionesDAO.cs",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAAAMAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:29:55.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Evaluaciones.cs",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Models\\Evaluaciones.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\Models\\Evaluaciones.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Models\\Evaluaciones.cs",
+              "RelativeToolTip": "EDUCATIVE\\Models\\Evaluaciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:24:57.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ForoForm.cs",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\ForoForm.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\Formularios\\FormsDelCurso\\ForoForm.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\ForoForm.cs",
+              "RelativeToolTip": "EDUCATIVE\\Formularios\\FormsDelCurso\\ForoForm.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAqwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T05:44:03.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "mensajeForoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\DAOModels\\mensajeForoDAO.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\DAOModels\\mensajeForoDAO.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\DAOModels\\mensajeForoDAO.cs",
+              "RelativeToolTip": "EDUCATIVE\\DAOModels\\mensajeForoDAO.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAgwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T06:27:11.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FormularioMaterialesEstudiantecs.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioMaterialesEstudiantecs.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioMaterialesEstudiantecs.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioMaterialesEstudiantecs.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioMaterialesEstudiantecs.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T23:44:18.871Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuhenticationDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\DAOModels\\AuhenticationDAO.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\DAOModels\\AuhenticationDAO.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\DAOModels\\AuhenticationDAO.cs",
+              "RelativeToolTip": "EDUCATIVE\\DAOModels\\AuhenticationDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T21:42:54.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MensajesForos.cs",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Models\\MensajesForos.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\Models\\MensajesForos.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Models\\MensajesForos.cs",
+              "RelativeToolTip": "EDUCATIVE\\Models\\MensajesForos.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAlwA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T06:20:52.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PreguntaForo.cs",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Models\\PreguntaForo.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\Models\\PreguntaForo.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Models\\PreguntaForo.cs",
+              "RelativeToolTip": "EDUCATIVE\\Models\\PreguntaForo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:54:21.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PreguntasForoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\DAOModels\\PreguntasForoDAO.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\DAOModels\\PreguntasForoDAO.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\DAOModels\\PreguntasForoDAO.cs",
+              "RelativeToolTip": "EDUCATIVE\\DAOModels\\PreguntasForoDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:15:24.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ForoForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\ForoForm.Designer.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\Formularios\\FormsDelCurso\\ForoForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\ForoForm.Designer.cs",
+              "RelativeToolTip": "EDUCATIVE\\Formularios\\FormsDelCurso\\ForoForm.Designer.cs",
+              "ViewState": "AQIAANgAAAAAAAAAAAD4v9kAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:57:20.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ForoDAOcs.cs",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\DAOModels\\ForoDAOcs.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\DAOModels\\ForoDAOcs.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\DAOModels\\ForoDAOcs.cs",
+              "RelativeToolTip": "EDUCATIVE\\DAOModels\\ForoDAOcs.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAAKMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:36:26.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ForosModel.cs",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Models\\ForosModel.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\Models\\ForosModel.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Models\\ForosModel.cs",
+              "RelativeToolTip": "EDUCATIVE\\Models\\ForosModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:34:25.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FormularioMaterialesEstudiantecs.cs",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioMaterialesEstudiantecs.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioMaterialesEstudiantecs.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioMaterialesEstudiantecs.cs",
+              "RelativeToolTip": "EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioMaterialesEstudiantecs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T23:44:21.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FormularioEvaluacionsYPruebas.Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioEvaluacionsYPruebas.Profesor.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioEvaluacionsYPruebas.Profesor.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioEvaluacionsYPruebas.Profesor.cs",
+              "RelativeToolTip": "EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioEvaluacionsYPruebas.Profesor.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwDYBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:06:50.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FormularioEvaluacionsYPruebas.Profesor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioEvaluacionsYPruebas.Profesor.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioEvaluacionsYPruebas.Profesor.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioEvaluacionsYPruebas.Profesor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioEvaluacionsYPruebas.Profesor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T20:47:02.92Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
               "Title": "BaseDeDatoscs.cs",
               "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Models\\BaseDeDatoscs.cs",
               "RelativeDocumentMoniker": "EDUCATIVE\\Models\\BaseDeDatoscs.cs",
@@ -197,104 +713,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AuhenticationDAO.cs",
-              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\DAOModels\\AuhenticationDAO.cs",
-              "RelativeDocumentMoniker": "EDUCATIVE\\DAOModels\\AuhenticationDAO.cs",
-              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\DAOModels\\AuhenticationDAO.cs",
-              "RelativeToolTip": "EDUCATIVE\\DAOModels\\AuhenticationDAO.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAQwC4AAABDAAAA",
+              "DocumentIndex": 41,
+              "Title": "FormularioEvaluacionsYPruebas.Profesor.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioEvaluacionsYPruebas.Profesor.Designer.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioEvaluacionsYPruebas.Profesor.Designer.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioEvaluacionsYPruebas.Profesor.Designer.cs",
+              "RelativeToolTip": "EDUCATIVE\\Formularios\\FormsDelCurso\\FormularioEvaluacionsYPruebas.Profesor.Designer.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAIAwwIAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T21:42:15.747Z",
+              "WhenOpened": "2024-05-30T23:35:30.283Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Usuariocs.cs",
-              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Models\\Usuariocs.cs",
-              "RelativeDocumentMoniker": "EDUCATIVE\\Models\\Usuariocs.cs",
-              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Models\\Usuariocs.cs",
-              "RelativeToolTip": "EDUCATIVE\\Models\\Usuariocs.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "DocumentIndex": 42,
+              "Title": "UsuarioDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\DAOModels\\UsuarioDAO.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\DAOModels\\UsuarioDAO.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\DAOModels\\UsuarioDAO.cs",
+              "RelativeToolTip": "EDUCATIVE\\DAOModels\\UsuarioDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T21:56:05.333Z",
+              "WhenOpened": "2024-05-29T19:45:27.138Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FormularioRegistro.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormularioRegistro.cs",
-              "RelativeDocumentMoniker": "EDUCATIVE\\Formularios\\FormularioRegistro.cs",
-              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormularioRegistro.cs [Dise\u00F1o]",
-              "RelativeToolTip": "EDUCATIVE\\Formularios\\FormularioRegistro.cs [Dise\u00F1o]",
+              "DocumentIndex": 43,
+              "Title": "MaterialCurso.cs",
+              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Models\\MaterialCurso.cs",
+              "RelativeDocumentMoniker": "EDUCATIVE\\Models\\MaterialCurso.cs",
+              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Models\\MaterialCurso.cs",
+              "RelativeToolTip": "EDUCATIVE\\Models\\MaterialCurso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T21:09:32.139Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Login.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\Login.cs",
-              "RelativeDocumentMoniker": "EDUCATIVE\\Formularios\\Login.cs",
-              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\Login.cs [Dise\u00F1o]",
-              "RelativeToolTip": "EDUCATIVE\\Formularios\\Login.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T21:10:39.521Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\Login.cs",
-              "RelativeDocumentMoniker": "EDUCATIVE\\Formularios\\Login.cs",
-              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\Login.cs",
-              "RelativeToolTip": "EDUCATIVE\\Formularios\\Login.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAcwCIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T21:08:08.602Z",
+              "WhenOpened": "2024-05-29T21:19:03.692Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "FormularioRegistro.cs",
-              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormularioRegistro.cs",
-              "RelativeDocumentMoniker": "EDUCATIVE\\Formularios\\FormularioRegistro.cs",
-              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormularioRegistro.cs",
-              "RelativeToolTip": "EDUCATIVE\\Formularios\\FormularioRegistro.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAYwD4AAABuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T21:14:08.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "FormularioRegistro.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormularioRegistro.Designer.cs",
-              "RelativeDocumentMoniker": "EDUCATIVE\\Formularios\\FormularioRegistro.Designer.cs",
-              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\Formularios\\FormularioRegistro.Designer.cs",
-              "RelativeToolTip": "EDUCATIVE\\Formularios\\FormularioRegistro.Designer.cs",
-              "ViewState": "AQIAAIUBAAAAAAAAAAAcwJMBAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T21:14:42.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "EDUCATIVE",
-              "DocumentMoniker": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\EDUCATIVE.csproj",
-              "RelativeDocumentMoniker": "EDUCATIVE\\EDUCATIVE.csproj",
-              "ToolTip": "C:\\Users\\Fernan\\Documents\\ProyectoAcademiaPrograI\\EDUCATIVE\\EDUCATIVE\\EDUCATIVE.csproj",
-              "RelativeToolTip": "EDUCATIVE\\EDUCATIVE.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-27T21:07:34.755Z"
             }
           ]
         }

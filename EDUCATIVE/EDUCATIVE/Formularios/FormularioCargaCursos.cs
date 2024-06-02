@@ -50,6 +50,7 @@ namespace EDUCATIVE
             textoUsuario.Text = usuario.nombre_usuario;
             textoCorreo.Text = usuario.email;
             rolUsuario.Text = usuario.rol;
+            MessageBox.Show("" +usuario.FotoPerfil);
             if (usuario.FotoPerfil != null && usuario.FotoPerfil.Length > 0)
             {
                 using (MemoryStream stream = new MemoryStream(usuario.FotoPerfil))
@@ -129,7 +130,7 @@ namespace EDUCATIVE
             btnGuardarCambios.Location = new Point(20, 260);
             btnGuardarCambios.BackColor = Color.FromArgb(64, 64, 64);
             btnGuardarCambios.ForeColor = Color.White;
-            btnGuardarCambios.Click += BtnGuardarCambios_Click; // Manejador de evento para guardar cambios
+            btnGuardarCambios.Click += BtnGuardarCambios_Click; 
 
             // Agregar los controles al panel
             panelCursos.Controls.Add(guna2CirclePictureBox);
@@ -145,7 +146,6 @@ namespace EDUCATIVE
 
             camposManejo = new ArrayList() { txtNombre, txtApellidos, txtEmail };
 
-            // Centrar todo el contenido en el panel
 
         }
 
@@ -154,13 +154,11 @@ namespace EDUCATIVE
 
         private void BtnCambiarFoto_Click(object sender, EventArgs e)
         {
-            // Mostrar el cuadro de diálogo para seleccionar una imagen
             OpenFileDialog openFileDialog = new OpenFileDialog();
             openFileDialog.Filter = "Archivos de imagen|*.jpg;*.jpeg;*.png;*.bmp";
 
             if (openFileDialog.ShowDialog() == DialogResult.OK)
             {
-                // Obtener la ruta del archivo seleccionado
                 string rutaImagen = openFileDialog.FileName;
 
                 // Aquí puedes implementar la lógica para cargar la imagen en el Guna2CirclePictureBox
@@ -177,7 +175,6 @@ namespace EDUCATIVE
 
 
 
-            // Convertir la imagen de perfil a un arreglo de bytes
             byte[] fotoPerfilBytes = null;
             if (pictureBoxUsuarioMod.Image != null)
             {
@@ -209,7 +206,6 @@ namespace EDUCATIVE
                 }
                 else
                 {
-                    // Mostrar un mensaje de error si la actualización falló
                     MessageBox.Show("Error al actualizar el perfil");
                 }
             }
@@ -225,10 +221,8 @@ namespace EDUCATIVE
 
         private void crearCurso_Click(object sender, EventArgs e)
         {
-            // Limpiar todos los controles dentro del panelCursos
             panelCursos.Controls.Clear();
 
-            // Crear y configurar los controles para crear un curso
             Label lblTitulo = new Label();
             lblTitulo.Text = "Título:";
             lblTitulo.ForeColor = Color.White;
@@ -264,16 +258,15 @@ namespace EDUCATIVE
             btnSeleccionarImagen.Location = new Point(350, 130);
             btnSeleccionarImagen.BackColor = Color.FromArgb(64, 64, 64);
             btnSeleccionarImagen.ForeColor = Color.White;
-            btnSeleccionarImagen.Click += BtnCambiarFoto_Click; // Manejador de evento para seleccionar imagen
+            btnSeleccionarImagen.Click += BtnCambiarFoto_Click; 
 
             Button btnGuardarCurso = new Button();
             btnGuardarCurso.Text = "Guardar Curso";
             btnGuardarCurso.Location = new Point(20, 190);
             btnGuardarCurso.BackColor = Color.FromArgb(64, 64, 64);
             btnGuardarCurso.ForeColor = Color.White;
-            btnGuardarCurso.Click += BtnGuardarCurso_Click; // Manejador de evento para guardar curso
+            btnGuardarCurso.Click += BtnGuardarCurso_Click; 
 
-            // Agregar los controles al panel
             panelCursos.Controls.Add(lblTitulo);
             panelCursos.Controls.Add(txtTitulo);
             panelCursos.Controls.Add(lblDescripcion);
@@ -339,27 +332,26 @@ namespace EDUCATIVE
 
         private void CargarCursos_Click(object sender, EventArgs e)
         {
-            panelCursos.Controls.Clear(); // Limpia el panel antes de agregar nuevos cursos
+            panelCursos.Controls.Clear(); 
 
             CursosDAOcs cursosDAO = new CursosDAOcs();
+            UsuariosCursosDAO usuariosCursosDAO = new UsuariosCursosDAO();
             List<Curso> cursos = cursosDAO.ObtenerCursosDisponibles();
 
-            int posY = 10; // Posición inicial en el eje Y
+            int posY = 10; 
 
             foreach (var curso in cursos)
             {
-                // Crear un Panel para cada curso
                 Panel panelCurso = new Panel
                 {
-                    Width = panelCursos.ClientSize.Width - 25, // Ajustar el ancho del panel padre
-                    Height = 150, // Puedes ajustar esta altura según tus necesidades
+                    Width = panelCursos.ClientSize.Width - 25, 
+                    Height = 150, 
                     BorderStyle = BorderStyle.FixedSingle,
                     Location = new Point(10, posY),
                     Margin = new Padding(10),
                     BackColor = Color.FromArgb(64, 64, 64)
                 };
 
-                // Crear un PictureBox para mostrar la imagen del curso
                 PictureBox pictureBoxCurso = new PictureBox
                 {
                     Image = Image.FromStream(new MemoryStream(curso.ImagenCurso)),
@@ -369,7 +361,6 @@ namespace EDUCATIVE
                     Location = new Point(10, 10)
                 };
 
-                // Crear un Label para el título del curso
                 Label lblTitulo = new Label
                 {
                     Text = curso.Titulo,
@@ -379,7 +370,6 @@ namespace EDUCATIVE
                     ForeColor = Color.White
                 };
 
-                // Crear un Label para la descripción del curso
                 Label lblDescripcion = new Label
                 {
                     Text = curso.Descripcion,
@@ -390,26 +380,43 @@ namespace EDUCATIVE
                     ForeColor = Color.White
                 };
 
-                // Agregar controles al Panel del curso
                 panelCurso.Controls.Add(pictureBoxCurso);
                 panelCurso.Controls.Add(lblTitulo);
                 panelCurso.Controls.Add(lblDescripcion);
 
-                // Agregar el panel del curso al Panel principal
                 panelCursos.Controls.Add(panelCurso);
 
-                // Ajustar la posición para el próximo curso
                 posY += panelCurso.Height + 10;
 
-                // Agregar un evento Click al panel para abrir el formulario del curso
                 panelCurso.Click += (s, args) =>
                 {
-                    FormularioDelCurso formDelCurso = new FormularioDelCurso(curso.Id);
-                    formDelCurso.Show();
+                    if (usuariosCursosDAO.EstaInscrito(usuario.Id, curso.Id))
+                    {
+                        FormularioDelCurso formCurso = new FormularioDelCurso(usuario, curso.Id, curso.Titulo);
+                        this.Hide();
+                        formCurso.Show();
+                    }
+                    else
+                    {
+                        DialogResult result = MessageBox.Show("¿Deseas registrarte a este curso?", "Registro al Curso", MessageBoxButtons.YesNo);
+                        if (result == DialogResult.Yes)
+                        {
+                            if (usuariosCursosDAO.InscribirUsuarioACurso(usuario.Id, curso.Id))
+                            {
+                                MessageBox.Show("Te has registrado al curso exitosamente.");
+                                FormularioDelCurso formCurso = new FormularioDelCurso(usuario, curso.Id,curso.Titulo);
+                                this.Hide();
+                                formCurso.Show();
+                            }
+                            else
+                            {
+                                MessageBox.Show("Error al registrarse al curso.");
+                            }
+                        }
+                    }
                 };
             }
 
-            // Ajustar el tamaño del panel principal si es necesario
             if (posY > panelCursos.ClientSize.Height)
             {
                 panelCursos.AutoScroll = true;

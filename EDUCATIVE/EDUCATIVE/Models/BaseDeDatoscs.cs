@@ -10,5 +10,6 @@ namespace EDUCATIVE.Models
     public class BaseDeDatoscs
     {
         public static string cadenaConexion { get; } = "Persist Security Info=False;User ID=sa;Initial Catalog=Academia;Data Source=DESKTOP-07TI0C8; pwd=12345678" ;
+
     }
 }

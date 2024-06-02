@@ -1,4 +1,5 @@
-﻿using System;
+﻿using EDUCATIVE.Models;
+using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Linq;
@@ -36,6 +37,48 @@ namespace EDUCATIVE.DAOModels
                 MessageBox.Show("" + ex);
                 return false;
             }
+            finally
+            {
+                conexion.Close();
+            }
+        }
+        public Usuario ObtenerUsuarioPorId(int idUsuario)
+        {
+            Usuario usuario = null;
+            SqlConnection conexion = new SqlConnection(cadenaConexion);
+            try
+            {
+                conexion.Open();
+                string consulta = "SELECT * FROM usuarios WHERE id = @IdUsuario";
+                SqlCommand comando = new SqlCommand(consulta, conexion);
+                comando.Parameters.AddWithValue("@IdUsuario", idUsuario);
+
+                SqlDataReader lector = comando.ExecuteReader();
+
+                if (lector.Read())
+                {
+                    usuario = new Usuario
+                    {
+                        Id = Convert.ToInt32(lector["id"]),
+                        nombre_usuario = lector["nombre"].ToString(),
+                        apellidos = lector["apellidos"].ToString(),
+                        email = lector["email"].ToString(),
+                        FotoPerfil = lector["foto_perfil"] as byte[],
+                        contraseña = lector["contrasena"].ToString(),
+                        rol = lector["rol"].ToString()
+                    };
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error al obtener el usuario: " + ex.Message);
+            }
+            finally
+            {
+                conexion.Close();
+            }
+
+            return usuario;
         }
     }
 }

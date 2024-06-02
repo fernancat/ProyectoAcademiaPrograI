@@ -33,15 +33,16 @@
             btn_Cerrar = new Button();
             button4 = new Button();
             btm_Maximizar = new Button();
-            btn_Retroalimentacion = new Button();
+            btn_Grupos = new Button();
             btn_Calificaciones = new Button();
             btn_Foros = new Button();
-            Btn_Tareas = new Button();
+            Btn_MaterialesCurso = new Button();
             btn_Evaluaciones = new Button();
             panel2 = new Panel();
+            pictureBox2 = new PictureBox();
+            button2 = new Button();
             pictureBox8 = new PictureBox();
             btn_Inicio = new Button();
-            SidePanel = new Panel();
             pictureBox6 = new PictureBox();
             pictureBox5 = new PictureBox();
             pictureBox4 = new PictureBox();
@@ -58,7 +59,11 @@
             button3 = new Button();
             button1 = new Button();
             label1 = new Label();
+            panelContenidoCursos = new Panel();
+            button8 = new Button();
+            pictureBox9 = new PictureBox();
             panel2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox8).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox6).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox5).BeginInit();
@@ -68,6 +73,7 @@
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox7).BeginInit();
             panel4.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox9).BeginInit();
             SuspendLayout();
             // 
             // btn_Restaurar
@@ -132,24 +138,24 @@
             btm_Maximizar.UseVisualStyleBackColor = false;
             btm_Maximizar.Click += button1_Click;
             // 
-            // btn_Retroalimentacion
+            // btn_Grupos
             // 
-            btn_Retroalimentacion.Anchor = AnchorStyles.Top;
-            btn_Retroalimentacion.BackColor = Color.FromArgb(42, 40, 48);
-            btn_Retroalimentacion.FlatAppearance.BorderColor = Color.FromArgb(42, 40, 48);
-            btn_Retroalimentacion.FlatAppearance.BorderSize = 0;
-            btn_Retroalimentacion.FlatAppearance.MouseDownBackColor = Color.FromArgb(0, 80, 200);
-            btn_Retroalimentacion.FlatAppearance.MouseOverBackColor = Color.FromArgb(0, 80, 200);
-            btn_Retroalimentacion.FlatStyle = FlatStyle.Flat;
-            btn_Retroalimentacion.Font = new Font("Tahoma", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btn_Retroalimentacion.ForeColor = Color.Transparent;
-            btn_Retroalimentacion.Location = new Point(-3, 482);
-            btn_Retroalimentacion.Name = "btn_Retroalimentacion";
-            btn_Retroalimentacion.Size = new Size(282, 99);
-            btn_Retroalimentacion.TabIndex = 10;
-            btn_Retroalimentacion.Text = "              RETROALIMENTACION";
-            btn_Retroalimentacion.UseVisualStyleBackColor = false;
-            btn_Retroalimentacion.Click += btn_Retroalimentacion_Click;
+            btn_Grupos.Anchor = AnchorStyles.Top;
+            btn_Grupos.BackColor = Color.FromArgb(42, 40, 48);
+            btn_Grupos.FlatAppearance.BorderColor = Color.FromArgb(42, 40, 48);
+            btn_Grupos.FlatAppearance.BorderSize = 0;
+            btn_Grupos.FlatAppearance.MouseDownBackColor = Color.FromArgb(0, 80, 200);
+            btn_Grupos.FlatAppearance.MouseOverBackColor = Color.FromArgb(0, 80, 200);
+            btn_Grupos.FlatStyle = FlatStyle.Flat;
+            btn_Grupos.Font = new Font("Tahoma", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btn_Grupos.ForeColor = Color.Transparent;
+            btn_Grupos.Location = new Point(6, 451);
+            btn_Grupos.Name = "btn_Grupos";
+            btn_Grupos.Size = new Size(282, 99);
+            btn_Grupos.TabIndex = 10;
+            btn_Grupos.Text = "Grupos";
+            btn_Grupos.UseVisualStyleBackColor = false;
+            btn_Grupos.Click += btn_Retroalimentacion_Click;
             // 
             // btn_Calificaciones
             // 
@@ -162,7 +168,7 @@
             btn_Calificaciones.FlatStyle = FlatStyle.Flat;
             btn_Calificaciones.Font = new Font("Tahoma", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btn_Calificaciones.ForeColor = Color.Transparent;
-            btn_Calificaciones.Location = new Point(-58, 141);
+            btn_Calificaciones.Location = new Point(-19, 104);
             btn_Calificaciones.Name = "btn_Calificaciones";
             btn_Calificaciones.Size = new Size(343, 80);
             btn_Calificaciones.TabIndex = 9;
@@ -181,7 +187,7 @@
             btn_Foros.FlatStyle = FlatStyle.Flat;
             btn_Foros.Font = new Font("Tahoma", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btn_Foros.ForeColor = Color.Transparent;
-            btn_Foros.Location = new Point(0, 396);
+            btn_Foros.Location = new Point(12, 365);
             btn_Foros.Name = "btn_Foros";
             btn_Foros.Size = new Size(282, 80);
             btn_Foros.TabIndex = 8;
@@ -189,24 +195,24 @@
             btn_Foros.UseVisualStyleBackColor = false;
             btn_Foros.Click += btn_Foros_Click;
             // 
-            // Btn_Tareas
+            // Btn_MaterialesCurso
             // 
-            Btn_Tareas.Anchor = AnchorStyles.Top;
-            Btn_Tareas.BackColor = Color.FromArgb(42, 40, 48);
-            Btn_Tareas.FlatAppearance.BorderColor = Color.FromArgb(42, 40, 48);
-            Btn_Tareas.FlatAppearance.BorderSize = 0;
-            Btn_Tareas.FlatAppearance.MouseDownBackColor = Color.FromArgb(0, 80, 200);
-            Btn_Tareas.FlatAppearance.MouseOverBackColor = Color.FromArgb(0, 80, 200);
-            Btn_Tareas.FlatStyle = FlatStyle.Flat;
-            Btn_Tareas.Font = new Font("Tahoma", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            Btn_Tareas.ForeColor = Color.Transparent;
-            Btn_Tareas.Location = new Point(0, 227);
-            Btn_Tareas.Name = "Btn_Tareas";
-            Btn_Tareas.Size = new Size(285, 89);
-            Btn_Tareas.TabIndex = 7;
-            Btn_Tareas.Text = "TAREAS";
-            Btn_Tareas.UseVisualStyleBackColor = false;
-            Btn_Tareas.Click += Btn_Tareas_Click;
+            Btn_MaterialesCurso.Anchor = AnchorStyles.Top;
+            Btn_MaterialesCurso.BackColor = Color.FromArgb(42, 40, 48);
+            Btn_MaterialesCurso.FlatAppearance.BorderColor = Color.FromArgb(42, 40, 48);
+            Btn_MaterialesCurso.FlatAppearance.BorderSize = 0;
+            Btn_MaterialesCurso.FlatAppearance.MouseDownBackColor = Color.FromArgb(0, 80, 200);
+            Btn_MaterialesCurso.FlatAppearance.MouseOverBackColor = Color.FromArgb(0, 80, 200);
+            Btn_MaterialesCurso.FlatStyle = FlatStyle.Flat;
+            Btn_MaterialesCurso.Font = new Font("Tahoma", 8.2F, FontStyle.Bold);
+            Btn_MaterialesCurso.ForeColor = Color.Transparent;
+            Btn_MaterialesCurso.Location = new Point(69, 190);
+            Btn_MaterialesCurso.Name = "Btn_MaterialesCurso";
+            Btn_MaterialesCurso.Size = new Size(240, 89);
+            Btn_MaterialesCurso.TabIndex = 7;
+            Btn_MaterialesCurso.Text = "MATERIALES DEL CURSO";
+            Btn_MaterialesCurso.UseVisualStyleBackColor = false;
+            Btn_MaterialesCurso.Click += Btn_MaterialesCurso_Click;
             // 
             // btn_Evaluaciones
             // 
@@ -219,7 +225,7 @@
             btn_Evaluaciones.FlatStyle = FlatStyle.Flat;
             btn_Evaluaciones.Font = new Font("Tahoma", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btn_Evaluaciones.ForeColor = Color.Transparent;
-            btn_Evaluaciones.Location = new Point(-3, 311);
+            btn_Evaluaciones.Location = new Point(39, 285);
             btn_Evaluaciones.Name = "btn_Evaluaciones";
             btn_Evaluaciones.Size = new Size(285, 90);
             btn_Evaluaciones.TabIndex = 6;
@@ -230,9 +236,12 @@
             // panel2
             // 
             panel2.BackColor = Color.FromArgb(42, 40, 48);
+            panel2.Controls.Add(pictureBox9);
+            panel2.Controls.Add(button8);
+            panel2.Controls.Add(pictureBox2);
+            panel2.Controls.Add(button2);
             panel2.Controls.Add(pictureBox8);
             panel2.Controls.Add(btn_Inicio);
-            panel2.Controls.Add(SidePanel);
             panel2.Controls.Add(pictureBox6);
             panel2.Controls.Add(pictureBox5);
             panel2.Controls.Add(pictureBox4);
@@ -240,14 +249,43 @@
             panel2.Controls.Add(pictureBox1);
             panel2.Controls.Add(btn_Calificaciones);
             panel2.Controls.Add(btn_Foros);
-            panel2.Controls.Add(btn_Retroalimentacion);
-            panel2.Controls.Add(Btn_Tareas);
+            panel2.Controls.Add(btn_Grupos);
+            panel2.Controls.Add(Btn_MaterialesCurso);
             panel2.Controls.Add(btn_Evaluaciones);
             panel2.Dock = DockStyle.Left;
             panel2.Location = new Point(0, 0);
             panel2.Name = "panel2";
             panel2.Size = new Size(285, 724);
             panel2.TabIndex = 13;
+            // 
+            // pictureBox2
+            // 
+            pictureBox2.BackColor = SystemColors.ButtonHighlight;
+            pictureBox2.Image = (Image)resources.GetObject("pictureBox2.Image");
+            pictureBox2.Location = new Point(38, 572);
+            pictureBox2.Name = "pictureBox2";
+            pictureBox2.Size = new Size(34, 33);
+            pictureBox2.TabIndex = 21;
+            pictureBox2.TabStop = false;
+            // 
+            // button2
+            // 
+            button2.Anchor = AnchorStyles.Top;
+            button2.BackColor = Color.FromArgb(42, 40, 48);
+            button2.FlatAppearance.BorderColor = Color.FromArgb(42, 40, 48);
+            button2.FlatAppearance.BorderSize = 0;
+            button2.FlatAppearance.MouseDownBackColor = Color.FromArgb(0, 80, 200);
+            button2.FlatAppearance.MouseOverBackColor = Color.FromArgb(0, 80, 200);
+            button2.FlatStyle = FlatStyle.Flat;
+            button2.Font = new Font("Tahoma", 7F, FontStyle.Bold);
+            button2.ForeColor = Color.Transparent;
+            button2.Location = new Point(78, 537);
+            button2.Name = "button2";
+            button2.Size = new Size(178, 99);
+            button2.TabIndex = 11;
+            button2.Text = "SEGUIMIENTO DE PROGRESO Y REPORTES";
+            button2.UseVisualStyleBackColor = false;
+            button2.Click += button2_Click;
             // 
             // pictureBox8
             // 
@@ -277,19 +315,11 @@
             btn_Inicio.Text = "INICIO";
             btn_Inicio.UseVisualStyleBackColor = false;
             // 
-            // SidePanel
-            // 
-            SidePanel.BackColor = Color.Red;
-            SidePanel.Location = new Point(12, 148);
-            SidePanel.Name = "SidePanel";
-            SidePanel.Size = new Size(10, 51);
-            SidePanel.TabIndex = 15;
-            // 
             // pictureBox6
             // 
             pictureBox6.BackColor = SystemColors.ButtonHighlight;
             pictureBox6.Image = (Image)resources.GetObject("pictureBox6.Image");
-            pictureBox6.Location = new Point(39, 517);
+            pictureBox6.Location = new Point(39, 482);
             pictureBox6.Name = "pictureBox6";
             pictureBox6.Size = new Size(34, 33);
             pictureBox6.TabIndex = 20;
@@ -299,7 +329,7 @@
             // 
             pictureBox5.BackColor = SystemColors.ButtonHighlight;
             pictureBox5.Image = (Image)resources.GetObject("pictureBox5.Image");
-            pictureBox5.Location = new Point(39, 419);
+            pictureBox5.Location = new Point(38, 396);
             pictureBox5.Name = "pictureBox5";
             pictureBox5.Size = new Size(34, 35);
             pictureBox5.TabIndex = 19;
@@ -309,7 +339,7 @@
             // 
             pictureBox4.BackColor = SystemColors.ButtonHighlight;
             pictureBox4.Image = (Image)resources.GetObject("pictureBox4.Image");
-            pictureBox4.Location = new Point(39, 338);
+            pictureBox4.Location = new Point(38, 318);
             pictureBox4.Name = "pictureBox4";
             pictureBox4.Size = new Size(34, 33);
             pictureBox4.TabIndex = 18;
@@ -319,7 +349,7 @@
             // 
             pictureBox3.BackColor = SystemColors.ButtonHighlight;
             pictureBox3.Image = (Image)resources.GetObject("pictureBox3.Image");
-            pictureBox3.Location = new Point(39, 252);
+            pictureBox3.Location = new Point(38, 228);
             pictureBox3.Name = "pictureBox3";
             pictureBox3.Size = new Size(34, 33);
             pictureBox3.TabIndex = 17;
@@ -329,7 +359,7 @@
             // 
             pictureBox1.BackColor = SystemColors.ButtonHighlight;
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(39, 158);
+            pictureBox1.Location = new Point(38, 128);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(34, 32);
             pictureBox1.TabIndex = 15;
@@ -472,11 +502,47 @@
             label1.TabIndex = 17;
             label1.Text = "ACADEMIA";
             // 
+            // panelContenidoCursos
+            // 
+            panelContenidoCursos.Location = new Point(288, 153);
+            panelContenidoCursos.Name = "panelContenidoCursos";
+            panelContenidoCursos.Size = new Size(1090, 571);
+            panelContenidoCursos.TabIndex = 16;
+            // 
+            // button8
+            // 
+            button8.Anchor = AnchorStyles.Top;
+            button8.BackColor = Color.FromArgb(42, 40, 48);
+            button8.FlatAppearance.BorderColor = Color.Gray;
+            button8.FlatAppearance.BorderSize = 0;
+            button8.FlatAppearance.MouseDownBackColor = Color.FromArgb(0, 80, 200);
+            button8.FlatAppearance.MouseOverBackColor = Color.FromArgb(0, 80, 200);
+            button8.FlatStyle = FlatStyle.Flat;
+            button8.Font = new Font("Tahoma", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button8.ForeColor = Color.Transparent;
+            button8.Location = new Point(12, 32);
+            button8.Name = "button8";
+            button8.Size = new Size(343, 80);
+            button8.TabIndex = 23;
+            button8.Text = "NOTIFICACIONES";
+            button8.UseVisualStyleBackColor = false;
+            // 
+            // pictureBox9
+            // 
+            pictureBox9.BackColor = SystemColors.ButtonHighlight;
+            pictureBox9.Image = (Image)resources.GetObject("pictureBox9.Image");
+            pictureBox9.Location = new Point(39, 49);
+            pictureBox9.Name = "pictureBox9";
+            pictureBox9.Size = new Size(34, 35);
+            pictureBox9.TabIndex = 24;
+            pictureBox9.TabStop = false;
+            // 
             // FormularioDelCurso
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1381, 724);
+            Controls.Add(panelContenidoCursos);
             Controls.Add(panel4);
             Controls.Add(panel1);
             Controls.Add(panel2);
@@ -485,6 +551,7 @@
             Text = "FormularioDelCurso";
             Load += FormularioDelCurso_Load;
             panel2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox8).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox6).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox5).EndInit();
@@ -495,6 +562,7 @@
             ((System.ComponentModel.ISupportInitialize)pictureBox7).EndInit();
             panel4.ResumeLayout(false);
             panel4.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox9).EndInit();
             ResumeLayout(false);
         }
 
@@ -503,10 +571,10 @@
         private Button btn_Restaurar;
         private Button btn_Cerrar;
         private Button btm_Maximizar;
-        private Button btn_Retroalimentacion;
+        private Button btn_Grupos;
         private Button btn_Calificaciones;
         private Button btn_Foros;
-        private Button Btn_Tareas;
+        private Button Btn_MaterialesCurso;
         private Button btn_Evaluaciones;
         private Panel panel2;
         private Panel panel1;
@@ -527,6 +595,10 @@
         private Button btn_Inicio;
         private Label label2;
         private Label label3;
-        private Panel SidePanel;
+        private Panel panelContenidoCursos;
+        private Button button2;
+        private PictureBox pictureBox2;
+        private PictureBox pictureBox9;
+        private Button button8;
     }
 }

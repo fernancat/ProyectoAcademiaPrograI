@@ -3,7 +3,8 @@ using System;
 using System.Windows.Forms;
 using System.Media;
 using System.Diagnostics;
-using System.Windows.Forms.VisualStyles; 
+using System.Windows.Forms.VisualStyles;
+using SesionInicio;
 
 namespace INNICIO
 {
@@ -43,13 +44,16 @@ namespace INNICIO
         {
             if (progressBar1.Value < 100)
             {
-                progressBar1.Value += 1; 
+                progressBar1.Value += 1;
                 label1.Text = progressBar1.Value.ToString() + "%";
             }
             else
             {
                 progressBarTimer.Stop();
                 soundPlayer.Stop();
+                this.Hide();
+                Login formularioLogin = new Login();
+                formularioLogin.Show();
             }
         }
 
@@ -179,5 +183,8 @@ namespace INNICIO
         {
             
         }
+
+       
+        
     }
 }
